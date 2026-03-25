@@ -1,6 +1,6 @@
 {
   "best_global_step": 250,
-  "best_metric": 0.6658249497413635,
+  "best_metric": 0.5386173129081726,
   "best_model_checkpoint": "./gpt2-lora-results\\checkpoint-250",
   "epoch": 1.0,
   "eval_steps": 500,
@@ -11,11 +11,11 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "eval_accuracy": 0.608,
-      "eval_loss": 0.6658249497413635,
-      "eval_runtime": 2897.972,
-      "eval_samples_per_second": 0.173,
-      "eval_steps_per_second": 0.022,
+      "eval_accuracy": 0.75,
+      "eval_loss": 0.5386173129081726,
+      "eval_runtime": 266.2733,
+      "eval_samples_per_second": 1.878,
+      "eval_steps_per_second": 0.237,
       "step": 250
     }
   ],
